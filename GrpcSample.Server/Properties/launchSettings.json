@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GrpcSample.Server": {
+      "commandName": "Project"
+    }
+  }
+}

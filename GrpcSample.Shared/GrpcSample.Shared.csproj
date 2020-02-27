@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bond.CSharp" Version="5.2.0" />
+    <PackageReference Include="FlatSharp" Version="2.1.0" />
+    <PackageReference Include="Grpc.Core" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>
